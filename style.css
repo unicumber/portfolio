@@ -320,6 +320,21 @@
         margin: 1rem;
     }
 
+    .project-screenshot-cskt{
+        float:right;
+        width: 100%;
+        max-width: 600px;
+        height: 375px;
+        background: linear-gradient(135deg, #ddd, #bbb);
+        border-radius: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #7f8c8d;
+        font-size: 1.2rem;
+        margin: 1rem;
+    }
+
     .project-screenshot-mobile{
         float:left;
         width: 100%;
